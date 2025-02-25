@@ -1,4 +1,4 @@
-
+52
 # 🚧 🚧 🚧
 ## react-native-camera is deprecated.goll
 Привет,Мирослав!
